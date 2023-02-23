@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>web pembelajaran</title>
+</head>
+<body>
+    <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;color:azure; background-color: rgb(201, 186, 147);text-align: center;">WEB PEMBELAJARAN</h1>
+    <h5>Kelas A2 Hari Selasa Jam 09.20</h5>
+    <h3>Gedung Kuliah Noeng Muhajir Ruang Kelas 17</h3>
+    <h6 style="font-style: oblique;color: grey">Dinda Primayanti 20105241044</h6>
+    <h5>Selasa, 14 Februari 2023</h5>
+    <h2 style="">Shared Vision<h2>
+    <h5 style="height: fit-content;">Visi  bersama   dimaksudkan   untuk  menghasilkan   tujuan   organisasi  yang   jelas   dan mendorong perubahan yang diperlukan dalam organisasi sehingga dapat mencapai hasil yang diinginkan di masa depan. Hal ini merupakan  tanggapan atas pertanyaan, “Apa yang ingin kita   ciptakan?”   [Baker  dan  Sinkula   (1999)].   Mencatat  pula  bahwa   aspek   kritis   dari   visi bersama adalah bahwa ketika   diketahui   dan   dipahami secara universal, organisasi tersebut merasa satu tujuan dan  satu arah. Visi bersama membantu menciptakan rasa kesamaan dalam organisasi  dan memberikan koherensi terhadap  beragam aktivitas. Orang  yang benar-benar memiliki visi  bersama akan  terhubung dan terikat  oleh aspirasi  yang sama. Selain  itu, visi bersama   memberikan  panduan   tentang   apa  yang  harus   dilestarikan   dan  apa   yang   harus diubah.</h5>
+
+<img src="sshared.png" style="padding" aria-controls="center";;">
+<br>
+<br>
+    <!--cara bikin video-->
+<video width= "500" controls src="Shared Vision Organization Learning.mp4"></video>
+<br>
+<iframe width="560" height="315" src="https://youtu.be/BTaX_K4Vq2s" frameborder="0"></iframe>
+    <!--cara bikin audio-->
+<audio controls src="mixkit-classical-jazz-689.mp3"></audio>
+
+
+
+</body>
+
+
+
+
+
+</html>
