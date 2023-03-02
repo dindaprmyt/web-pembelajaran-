@@ -14,13 +14,34 @@
 <img src="sshared.png" style="padding" aria-controls="center";;">
 <br>
 <br>
+<br>
     <!--cara bikin video-->
 <video width= "500" controls src="Shared Vision Organization Learning.mp4"></video>
 <br>
-<iframe width="560" height="315" src="https://youtu.be/BTaX_K4Vq2s" frameborder="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BTaX_K4Vq2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></iframe>
     <!--cara bikin audio-->
 <audio controls src="mixkit-classical-jazz-689.mp3"></audio>
 
+    <!--cara bikin link-->
+<br>
+<br>
+<br>
+<a href="https://www.youtube.com/watch?v=BTaX_K4Vq2s&ab_channel=dindaprima">link</a>
+<br>
+<a href="" target="_blank">ke halaman index</a>
+<br>
+<br>
+<!--unordered list (tidak ada nomer hanya titik)-->
+<ul>
+    <li>home</li>
+    <li>contact</li>
+    <li>info</li>
+</ul>
+<ol>
+    <li>nomer 1</li>
+    <li>nomer 2</li>
+    <li>nomer 3</li>
+</ol>
 
 
 </body>
