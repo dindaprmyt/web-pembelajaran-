@@ -1,0 +1,83 @@
+<html>
+    <head>
+        <style>
+            *{
+                padding: 10px;
+                margin: 0px;
+                height: 100%;
+                box-sizing: border-box;
+            }
+            body{
+                background-color: rgb(174, 143, 105);
+                display: flex;
+                flex-direction: column;
+            }
+            header{
+                font-size: large;
+                background-color: rgb(201, 150, 87);
+                text-align: center;
+                padding: 10px;
+                display: flex;
+                justify-content: space-between;
+                flex: 2;
+            }
+            section{
+                background-color: rgb(105, 80, 42);
+                display: flex;
+                column-gap: 10px;
+                width: 100%;
+            }
+            aside{
+                background-color: aliceblue;
+                font-size: 25pt;
+                width: 20%;
+                padding: 0px;
+            }
+            main{
+                background-color:  rgb(105, 80, 42);
+                font-style: initial;
+                display: flex;
+                flex: 7;
+                height: 80pv;
+            }
+            article{
+                width: 100%;
+                background-color: beige;
+            }
+            footer{
+                background-color: rgb(202, 202, 153);
+                font-size: xx-large;
+                text-align: center;
+                flex: 2;
+            }
+            ul{
+                display: flex;
+                list-style: none;
+            }
+            li{
+                margin-right: 5px;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>HEADER</h1>
+            <nav>
+            <ul>
+                <li><a href="home.html">home</a></li>
+                <li><a href="about.html">about</a></li>
+                <li><a href="contact.html">contact</a></li>
+            </ul>
+            </nav>
+        </header>    
+        <main>
+            <aside>sidebar</aside>
+            <section>
+                <article>bagian1</article>
+                <article>bagian2</article>
+                <article>bagian3</article>
+            </section>
+        </main>
+        <footer>FOOTER</footer>
+    </body>
+</html>
