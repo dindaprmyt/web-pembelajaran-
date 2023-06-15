@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ORKAM</title>
+    <link rel="stylesheet" href="layout.css">
+</head>
+<body>
+    <nav>
+        <div class="wrapper">
+            <div class="logo"><a href=''>ORKAM</a></div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#profile">Profile</a></li>
+                    <li><a href="#programs">Programs</a></li>
+                    <li><a href="#gallery">Gallery</a></li>
+                    <li><a href="#concact">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="wrapper">
+        <!--untuk home-->
+        <section id="home">
+            <img src="https://img.freepik.com/free-vector/group-young-people-posing-photo_52683-18823.jpg?size=626&ext=jpg&ga=GA1.1.1808092423.1676360697&semt=sph"/>
+            <div class="kolom">
+                <p class="deskripsi">Selamat Datang!</p>
+                <h2>Organisasi Karang Taruna Mojosari</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus asperiores commodi delectus nobis. Totam corporis nisi magni quisquam asperiores delectus?</p>
+                <p><a href="" class="tbl-biru">Kenalan dengan kami yuk</a></p>
+            </div>
+        </section>
+
+        <!--untuk kegiatan-->
+        <section id="Programs">
+            <div class="kolom">
+                <p class="deskripsi">ORKAM</p>
+                <h2>Program dan Kegiatan</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit dolores ratione adipisci, provident autem officia deserunt hic velit tempore dolorum temporibus quibusdam corporis minima explicabo veritatis architecto minus accusantium molestias!</p>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
