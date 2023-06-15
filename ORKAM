@@ -29,19 +29,87 @@
             <div class="kolom">
                 <p class="deskripsi">Selamat Datang!</p>
                 <h2>Organisasi Karang Taruna Mojosari</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus asperiores commodi delectus nobis. Totam corporis nisi magni quisquam asperiores delectus?</p>
+                <p>Karang taruna merupakan salah satu organisasi masyarakat untuk kalangan remaja sebagai tempat berbaur dan mengembangkan diri baik di lingkungan desa, kelurahan, kota ataupun komunitas tertentu. Karang taruna ini memiliki peran penting di lingkungan masyarakat khususnya dalam bidang sosial, pendidikan, kemasyarakatan, keagamaan dan budaya untuk mencapai tujuan kesejahteraan bersama. Karena seperti yang kita tahu bahwa anak muda bisa menjadi ujung tombak dalam berkembangnya sebuah bangsa. </p>
                 <p><a href="" class="tbl-biru">Kenalan dengan kami yuk</a></p>
             </div>
         </section>
 
-        <!--untuk kegiatan-->
-        <section id="Programs">
+        <!--untuk programs-->
+        <section id="programs">
             <div class="kolom">
                 <p class="deskripsi">ORKAM</p>
                 <h2>Program dan Kegiatan</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit dolores ratione adipisci, provident autem officia deserunt hic velit tempore dolorum temporibus quibusdam corporis minima explicabo veritatis architecto minus accusantium molestias!</p>
+                <p>Membantu mengatasi berbagai macam permasalahan sosial, serta menciptakan rasa tanggung jawab untuk membantu bagi sesama yang mungkin tidak bernasib baik seperti diri kita. Meningkatkan kualitas para pemuda melalui berbagai macam aktivitas sosial yang dapat membuat kepribadian menjadi lebih baik</p>
+                <p>Mengadakan berbagai acara untuk membangun karakter jiwa pemuda yang membanggakan, menumbuhkan semangat kebersamaan yang kuat antara satu warga dengan warga lainnya, meningkatkan kualitas pendidikan warga sekitar yang mengalami keterbelakangan mental, dan mewujudkan kehidupan sejahtera yang menyeluruh untuk bisa dirasakan oleh semua warga</p>
+                <p><a href="" class="tbl-biru">Pelajari Lebih Lanjut</a></p>
+            </div>
+            <img src="https://img.freepik.com/free-vector/donation-volunteer-work-flat-concept-volunteers-help-other-people-who-need-help-food-vector-illustration_1284-75575.jpg?size=626&ext=jpg&ga=GA1.2.1808092423.1676360697&semt=ais"/>
+        </section>
+
+        <!--untuk profile-->
+        <section id="profile">
+            <div class="kolom">
+                <p class="deskripsi">Profile</p>
+                <h2>Profil Organisasi</h2>
+                <p>ORKAM merupakan salah satu organisasi Karang Taruna yang ada di Mojosari.</p>
+                <p>Saat ini kami aktif dalam segala kegiatan sosial dimasyarakat.</p>
+            </div>
+            <img src="file:///C:/Users/DINDA/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/DC09C97FD73D7A324BDBFE7C79525F64/WhatsApp%20Image%202023-06-16%20at%2002.39.58.jpg"/>
+        </section>
+
+        <!--untuk gallery-->
+        <section id="gallery">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">Our Gallery</p>
+                    <h2>Gallery</h2>
+                    <p>Beberapa Kegiatan yang Kami Lakukan</p>
+                </div>
+
+                <div class="gallery-program">
+                    <div class="kartu-gallery">
+                        <img src="file:///C:/Users/DINDA/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/571D3A9420BFD9219F65B643D0003BF4/WhatsApp%20Image%202023-06-16%20at%2002.22.54.jpg"/>
+                        <p>Jalan Sehat</p>
+                    </div>
+                    <div class="kartu-gallery">
+                        <img src="file:///C:/Users/DINDA/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/97275A23CA44226C9964043C8462BE96/WhatsApp%20Image%202023-06-16%20at%2002.22.54.jpg"/>
+                        <p>Senam</p>
+                    </div>
+                    <div class="kartu-gallery">
+                        <img src="file:///C:/Users/DINDA/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/7D6044E95A16761171B130DCB476A43E/WhatsApp%20Image%202023-06-16%20at%2002.22.53.jpg"/>
+                        <p>Lomba</p>
+                    </div>
+                    <div class="kartu-gallery">
+                        <img src="file:///C:/Users/DINDA/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/AC796A52DB3F16BBDB6557D3D89D1C5A/WhatsApp%20Image%202023-06-16%20at%2002.22.52.jpg"/>
+                        <p>OutBond</p>
+                    </div>
+                </div>
             </div>
         </section>
+    </div> 
+
+    <div id="contact">
+        <div class="wrapper">
+            <div class="footer">
+                <div class="footer-section">
+                    <h3>Orkam</h3>
+                    <p>Organisasi Karang Taruna Mojosari</p> 
+                </div>
+                <div class="footer-section">
+                    <h3>About</h3>
+                    <p>Organisasi aktif dalam kegiatan masyarakat</p> 
+                </div>
+                <div class="footer-section">
+                    <h3>Contact</h3>
+                    <p>Jl. Wonosari km, 10.5 Mojosari, Sitimulyo, Piyungan, Bantul, Yogyakarta</p>
+                    <p>Kode Pos:55792</p> 
+                </div>
+                <div class="footer-section">
+                    <h3>Sosial</h3>
+                    <p><b>Instagram: </b>@orkamojosari</p>
+                </div>
+            </div>
+        </div>
     </div>
 </body>
 </html>
